@@ -89,5 +89,17 @@ Note: These endpoints must match the routes implemented in your app.js file.
 Successfully created and executed a Node.js and Express.js server. Tested the application using different HTTP endpoints.
 
 ## GitHub Repository
+## Deployment
 
-Enter your GitHub repository link here.
+**Platform:** Render
+
+**Deployed Link:**  https://navya-reddy-1.onrender.com
+
+**Status:** Successfully Deployed
+
+## Output Screenshots
+
+- Home Page
+- About Page
+- Time Page
+- Error Page
